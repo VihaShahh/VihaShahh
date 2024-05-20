@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viha Shah</h1>
-<h3 align="center">Linkedin Top Voice | AI, ML, Data Science, Computer Vision Enthusiastic from India | Youtube content creator.</h3>
+<h3 align="center">Linkedin Top Voice | AI, ML, Data Science & Computer Vision Enthusiastic from India | Youtube content creator.</h3>
 
 - 🌱 Won best research paper award at International conference.
 
