@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viha Shah</h1>
-<h3 align="center">A passionate frontend developer from India. I'm enthusiastic about data science, artificial intelligence, machine learning and computer vision.</h3>
+<h3 align="center">Linedin Top Voice and AI, ML, Data Science, Computer Vision Enthusiastic from India. I'm also a youtube content creator.</h3>
 
 - 🌱 I’m currently learning *Data science, machine learning, computer vision*
 
