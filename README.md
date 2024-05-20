@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viha Shah</h1>
-<h3 align="center">Linkedin Top Voice and AI, ML, Data Science, Computer Vision Enthusiastic from India. I'm also a youtube content creator.</h3>
+<h3 align="center">Linkedin Top Voice | AI, ML, Data Science, Computer Vision Enthusiastic from India | Youtube content creator.</h3>
 
 - 🌱 I’m currently learning *Data science, machine learning, computer vision*
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me *vihashah1103@gmail.com*
 
-- 📄 Know about my experiences [https://www.kickresume.com/cv/XvWXag/](https://www.kickresume.com/cv/XvWXag/)
+- 📄 Reach me on Linkedin : https://www.linkedin.com/in/vihashah/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
