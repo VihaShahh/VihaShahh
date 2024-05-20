@@ -3,9 +3,9 @@
 
 - 🌱 Won the best research paper award at International conference.
 
-- 👨‍💻 All of my projects are available at [https://github.com/VihaShahh](https://github.com/VihaShahh)
+- 👨‍💻 All of my projects are available at : [https://github.com/VihaShahh](https://github.com/VihaShahh)
 
-- 📫 How to reach me vihashah1103@gmail.com
+- 📫 How to reach me : vihashah1103@gmail.com
 
 - 📄 Reach me on Linkedin : https://www.linkedin.com/in/vihashah/
 
