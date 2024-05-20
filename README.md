@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Viha Shah</h1>
 <h3 align="center">Linkedin Top Voice | AI, ML, Data Science, Computer Vision Enthusiastic from India | Youtube content creator.</h3>
 
-- 🌱 I’m currently learning *Data science, machine learning, computer vision*
+- 🌱 Won best research paper award at International conference.
 
 - 👨‍💻 All of my projects are available at [https://github.com/VihaShahh](https://github.com/VihaShahh)
 
-- 📫 How to reach me *vihashah1103@gmail.com*
+- 📫 How to reach me vihashah1103@gmail.com
 
 - 📄 Reach me on Linkedin : https://www.linkedin.com/in/vihashah/
 
