@@ -28,7 +28,6 @@
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/opencv.svg" alt="OpenCV" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="ReactJS" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="40" height="40"/>
