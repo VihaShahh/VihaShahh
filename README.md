@@ -43,7 +43,7 @@
 
 ## 💼 Professional Experience
 
-### Backend Developer — Chinmay Finlease Limited (Mar 2025 – Present)
+### Software Developer — Chinmay Finlease Limited (Mar 2025 – Present)
 - Implemented payment reconciliation to track user transactions post-payment link dispatch.  
 - Integrated third-party APIs from Apollo Finvest for streamlined loan processing.  
 - Automated daily quality check reporting, reducing manual effort by 50%.  
@@ -57,7 +57,7 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Top Projects
 
 ### Inventory Management
 - Backend system to manage products, track stock levels, and process supplier orders.  
@@ -67,15 +67,6 @@
 ### Body Parts Identification Game
 - CV-based game using MediaPipe, OpenCV, and Pygame to help children with ASD.  
 - Integrated gTTS for multilingual prompts (including Gujarati) for better accessibility.
-
----
-
-## 🎓 Education
-- **G H Patel College of Engineering & Technology (GCET), Anand, India**  
-  Bachelor’s in Information Technology, CGPA: 8.08  
-
-- **Kasturba Kanya Vidyalaya, Anand**  
-  HSC, Percentage: 82%
 
 ---
 
