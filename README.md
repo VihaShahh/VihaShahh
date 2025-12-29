@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | LinkedIn Top Data Analytics Voice' 24 | IT Engineering UG</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=FF69B4&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+AI+%26+ML+Enthusiast+%7C+Computer+Vision+%7C+Content+Creator" alt="typing animation"/>
+  AI & ML Enthusiastic
 </p>
 
 ---
