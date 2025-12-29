@@ -8,11 +8,8 @@
 ---
 
 ## 🌟 About Me
-- 🔬 Winner of Best Research Paper Award at an International Conference (2024)  
+- Software Developer who enjoys working end-to-end: product discovery, fast prototypes, scalable backends and polished UX.
 - 👨‍💻 All my projects: [GitHub](https://github.com/VihaShahh)  
-- 📫 Email me: [vihashah1103@gmail.com](mailto:vihashah1103@gmail.com)  
-- 🔗 LinkedIn: [Viha Shah](https://www.linkedin.com/in/vihashah/)  
-- 🌐 Connect with me: [Linktree](https://linktr.ee/vihashah)
 
 ---
 
