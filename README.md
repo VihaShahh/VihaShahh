@@ -83,6 +83,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" alt="coding gif" width="400"/>
-</p>
