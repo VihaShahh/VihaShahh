@@ -39,7 +39,7 @@
 
 ## 💼 Professional Experience
 
-### Software Developer — Chinmay Finlease Limited (Mar 2025 – Present)
+### Software Developer — Chinmay Finlease Limited (Mar 2025 – Oct 2026)
 - Implemented payment reconciliation to track user transactions post-payment link dispatch.  
 - Integrated third-party APIs from Apollo Finvest for streamlined loan processing.  
 - Automated daily quality check reporting, reducing manual effort by 50%.  
